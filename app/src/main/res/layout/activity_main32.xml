@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity"
+    android:background="@color/blue"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:padding="25dp"
+            android:text="ARTS"
+            android:textColor="#fff"
+            android:textSize="30sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_corners_white1">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/rounded_corners_white1"
+            >
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/rounded_corners_white1">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="0dp"
+                        app:cardBackgroundColor="@color/blue"
+                        app:cardCornerRadius="20dp"
+                        app:cardElevation="10dp"
+                        app:cardMaxElevation="12dp"
+                        app:cardPreventCornerOverlap="true"
+                        app:cardUseCompatPadding="true">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginTop="20dp"
+                            android:layout_marginBottom="20dp"
+                            android:text="Options"
+                            android:textColor="@color/white"
+                            android:textSize="20sp" />
+                    </androidx.cardview.widget.CardView>
+
+                    <Button
+                        android:id="@+id/btn64"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="150dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginBottom="20dp"
+                        android:background="#fff"
+                        android:elevation="40dp"
+                        android:padding="10dp"
+                        android:text="@string/arts1"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn65"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="210dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginBottom="20dp"
+                        android:background="#fff"
+                        android:elevation="40dp"
+                        android:padding="10dp"
+                        android:text="@string/arts2"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn66"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="280dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginBottom="20dp"
+                        android:background="#fff"
+                        android:elevation="40dp"
+                        android:padding="10dp"
+                        android:text="@string/arts3"
+                        android:textSize="15sp" />
+
+                </RelativeLayout>
+            </ScrollView>
+
+
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>
+

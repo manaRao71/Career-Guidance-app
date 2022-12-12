@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Careerguide" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue</item>
+
+        <!-- Customize your theme here. -->
+        <item name="android:statusBarColor">@color/blue</item>
+        <item name="android:navigationBarColor">@color/blue</item>
+    </style>
+    <style name="Theme.AppCompat.pop">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90089207782",
+    "project_id": "careerguide-50897",
+    "storage_bucket": "careerguide-50897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90089207782:android:3fe3365c479080721c4827",
+        "android_client_info": {
+          "package_name": "com.example.careerguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90089207782-irdumhvcn199p9h7vpf7ddjrfncoo9hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC30VXINQEmrL95v_qtmVB47IiXv2jlHYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90089207782-irdumhvcn199p9h7vpf7ddjrfncoo9hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

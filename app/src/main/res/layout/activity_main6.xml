@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity"
+
+    android:background="#ffff">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="CLASS 12"
+        android:textAlignment="center"
+        android:textColor="#4B9CD3"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn50"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/rounded_corners_blue"
+        android:padding="25dp"
+        android:text="Science"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn51"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="325dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/rounded_corners_blue"
+        android:padding="25dp"
+        android:text="Commerce"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn52"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/rounded_corners_blue"
+        android:padding="25dp"
+        android:text="Arts"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+
+
+</RelativeLayout>

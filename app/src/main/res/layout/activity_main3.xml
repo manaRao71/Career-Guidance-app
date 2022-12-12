@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
+
+    <ImageView
+        android:id="@+id/img3"
+        android:layout_width="380dp"
+        android:layout_height="250dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="32dp"
+        android:src="@drawable/cg3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="36dp"
+        android:text="REGISTER"
+        android:textColor="@color/blue"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img3" />
+
+    <TextView
+        android:id="@+id/tv7"
+        android:layout_width="130dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="40dp"
+        android:text="Username"
+        android:textColor="@color/blue"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv6" />
+
+    <TextView
+        android:id="@+id/tv8"
+        android:layout_width="130dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="15dp"
+        android:text="E-mail"
+        android:textColor="@color/blue"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv7" />
+
+    <TextView
+        android:id="@+id/tv9"
+        android:layout_width="130dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="15dp"
+        android:text="Password"
+        android:textColor="@color/blue"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv8" />
+
+    <EditText
+        android:id="@+id/et3"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="35dp"
+        android:textAlignment="textStart"
+        android:textColor="@color/blue"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/tv7"
+        app:layout_constraintTop_toBottomOf="@+id/tv6" />
+
+    <EditText
+        android:id="@+id/et4"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="10dp"
+        android:textAlignment="textStart"
+        android:textColor="@color/blue"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        app:layout_constraintStart_toEndOf="@+id/tv8"
+        app:layout_constraintTop_toBottomOf="@+id/et3" />
+
+    <EditText
+        android:id="@+id/et5"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="9dp"
+        android:textAlignment="textStart"
+        android:textColor="@color/blue"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        android:ems="10"
+        android:inputType="textPassword"
+        app:layout_constraintStart_toEndOf="@+id/tv9"
+        app:layout_constraintTop_toBottomOf="@+id/et4" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/rounded_corners"
+        android:text="REGISTER"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv9" />
+
+    <ProgressBar
+        android:id="@+id/pb2"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="152dp"
+        android:layout_marginTop="8dp"
+        android:visibility="invisible"
+        android:background="@color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/et5" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

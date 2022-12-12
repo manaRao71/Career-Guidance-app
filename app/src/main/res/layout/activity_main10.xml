@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity10">
+
+
+    <ImageView
+        android:id="@+id/img12"
+        android:layout_width="370dp"
+        android:layout_height="233dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/cg9" />
+
+    <TextView
+
+        android:id="@+id/tv30"
+        android:layout_width="398dp"
+        android:layout_height="241dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="56dp"
+        android:text="\t                       Heyya ! \n\n \n    Welcome to the journey of  \n                         IAS ... "
+        android:textColor="@color/blue"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img12" />
+
+    <Button
+            android:id="@+id/btn11"
+            android:layout_width="90dp"
+            android:layout_height="86dp"
+            android:layout_marginStart="160dp"
+            android:layout_marginTop="62dp"
+            android:background="@drawable/rounded_corners_blue"
+            android:text="GO"
+            android:textColor="#ffffff"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv30" />
+    </androidx.constraintlayout.widget.ConstraintLayout>

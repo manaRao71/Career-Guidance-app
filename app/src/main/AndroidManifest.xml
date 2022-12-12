@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.careerguide">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logocg"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Careerguide"
+        tools:targetApi="31">
+        <activity
+            android:name=".pop54"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop53"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop52"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop51"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".MainActivity16"
+            android:exported="false" />
+        <activity
+            android:name=".pop44"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop43"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop42"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop41"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".MainActivity15"
+            android:exported="false" />
+        <activity
+            android:name=".pop34"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop33"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop32"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop31"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".MainActivity14"
+            android:exported="false" />
+        <activity
+            android:name=".pop24"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop23"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop22"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop21"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".MainActivity13"
+            android:exported="false" />
+        <activity
+            android:name=".pop14"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop13"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop12"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".pop1"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.pop" />
+        <activity
+            android:name=".MainActivityyay"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity34"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity62"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity61"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity60"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity52"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity51"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity50"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity47"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity46"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity45"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity44"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity43"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity42"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity41"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity40"
+            android:exported="false" />
+
+        <activity
+            android:name=".MainActivity33"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity32"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity31"
+            android:exported="false" />
+        <activity
+            android:name=".Main30Activity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity12"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity11"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity10"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity9"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity8"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity7"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity5"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity6"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

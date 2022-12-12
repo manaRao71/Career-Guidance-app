@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity8">
+
+
+    <ImageView
+        android:id="@+id/img7"
+        android:layout_width="411dp"
+        android:layout_height="297dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/cg7"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+
+        android:id="@+id/tv28"
+        android:layout_width="398dp"
+        android:layout_height="241dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="36dp"
+        android:text="\t                       Heyya ! \n\n \n    Welcome to the journey of  \n                   Data Scientist ... "
+        android:textColor="@color/blue"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img7" />
+
+    <Button
+        android:id="@+id/btn9"
+        android:layout_width="90dp"
+        android:layout_height="86dp"
+        android:layout_marginStart="160dp"
+        android:layout_marginTop="36dp"
+        android:background="@drawable/rounded_corners_blue"
+        android:text="GO"
+        android:textColor="#ffffff"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv28" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+

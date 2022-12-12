@@ -1,0 +1,566 @@
+<resources>
+    <string name="app_name">Careerguide</string>
+    <string name="_1_do_you_have_strong_technical_skills">1.Do you have strong technical skills?</string>
+
+
+    <string name="sub_name">Find Your Path Here…!</string>
+    <string name="goal">Goal Oriented</string>
+    <string name="general">General</string>
+    <string name="puc"><b>PUC</b> (2 years)</string>
+    <string name="diploma_name"><b>2.Diploma</b> (3 years)</string>
+    <string name="pcm">PCM (Physics, Chemistry, Mathematics)</string>
+    <string name="pcb">PCB (Physics, Chemistry, Biology)</string>
+    <string name="class10"><b>CLASS 10</b></string>
+    <string name="class12"><b>CLASS 12</b></string>
+    <string name="pcm_choices_sub"><b>PCM</b>(options)</string>
+    <string name="pcb_choices_sub"><b>PCB</b>(options)</string>
+
+
+    <string name="science"><b>1.Science</b>\n\n<ul><li>Physics, Chemistry, Maths, Biology(PCMB)</li>
+        \n\n<li>Physics, Chemistry, Maths, ComputerScience(PCMC)</li>
+        \n\n<li>Physics, Chemistry, Maths, Statistics(PCMS)</li></ul>
+        \n\n\n<b>2.Commerece</b>\n\n<ul><li>Statistics, Economics, Business Studies, Accountancy(SEBA)</li>
+            \n\n<li>Basic Mathematics, Economics, Business Studies, Accountancy(BEBA)</li>
+            \n\n<li>Basic Mathematics, Statistics, Business Studies, Accountancy(BSBA)</li>
+            \n\n<li>Computer Science, Statistics, Business Studies, Accountancy(CSBA)</li>
+            \n\n<li>Computer Science, Economics, Business Studies, Accountancy(CEBA)</li></ul>
+        \n\n\n<b>3.Arts</b>\n\n<ul><li>History, Economics, Political Science, Psychology(HEPP)</li></ul>
+    </string>
+    <string name="Diploma">\n<ul><li>Automobile Engineering</li>
+        \n\n<li>Chemical Engineering</li>
+        \n\n<li>Civil Engineering</li>
+        \n\n<li>Computer Science and Engineering</li>
+        \n\n<li>Electrical and Electronics Engineering</li>
+        \n\n<li>Electronics and Communication Engineering</li>
+        \n\n<li>Mechanical Engineering</li>
+        \n\n<li>Polymer Technology</li></ul></string>
+
+    <string name="pcm_choices"><b>1.Bachelor in Technology/ Bachelor in Engineering (BE, B. Tech)</b>
+
+    \nIts a 4 year course.
+        \n\nEligibility Criteria :
+        \n\n<ul><li>Above 60% in SSLC and PUC</li>
+         \n\n<li>KCET/COMEDK/JEE MAINS entrance exams (optional)</li>
+        </ul>
+    \n\n<ul><li>Computer Science and Engineering (CSE)</li>
+            \nJob Roles:
+        \n\n<li>AI and Machine Learning</li>
+        \n\n<li>Data Science</li>
+        \n\n<li>Cyber Security</li>
+        \n\n<li>Electronics and Communication Engineering</li>
+        \n\n<li>Information Science and Engineering</li>
+        \n\n<li>AI and Data Science</li>
+        \n\n<li>Robotics and Automation</li>
+        </ul></string>
+
+    <string name="pcm_choices1"><b>1.Bachelor in Technology/ Bachelor in Engineering (BE, B. Tech)</b></string>
+    <string name="pcm_choices2"><b>2.Bachelor of Computer Application(BCA)</b></string>
+    <string name="pcm_choices3"><b>3.Bachelor of Architecture (B.Arch)</b></string>
+
+    <string name="pcb_choices1"><b>1.MBBS</b></string>
+    <string name="pcb_choices2"><b>2.BDS</b></string>
+    <string name="pcb_choices3"><b>3.B.Pharma</b></string>
+    <string name="pcb_choices4"><b>4.MBBS</b></string>
+
+    <string name="pcm11">Computer Science and Engineering (CSE)</string>
+    <string name="pcm12">Electronics and Communication Engineering (ECE)</string>
+    <string name="pcm13">Artificial Intellegence and Machine Learning (AI and ML)</string>
+    <string name="pcm21">Bachelor of Computer Application(BCA)</string>
+    <string name="pcm31">Bachelor of Architecture (B.Arch)</string>
+
+    <string name="pcb1">Bachelor of Medicine and Bachelor of Surgery (MBBS)</string>
+    <string name="pcb2">Bachelor of Dental Surgery (BDS)</string>
+    <string name="pcb3">Bachelors in Pharmacy (B.Pharma)</string>
+
+    <string name="com1">Bachelor of Commerce (B.Com)</string>
+    <string name="com2">Bachelor of Business Administration (BBA)</string>
+    <string name="com3">Chartered Accountancy (CA)</string>
+    <string name="com4">Company Secretary (CS)</string>
+
+    <string name="arts1">Bachelor of Arts (BA)</string>
+    <string name="arts2">Bachelors in Journalism and Mass Communication (BJMC)</string>
+    <string name="arts3">Bachelor of Fine Arts (BFA)</string>
+
+    <string name="cse"><b>Info :</b>\n\nComputer engineers manage and design the computer hardware and software systems of a company. These skilled individuals may specialize in hardware or software and are often referred to as programmers. Their duties include developing software systems, updating hardware, and designing new equipment.
+        \n\n\n<b>Duration :</b>\n\n4 Years.
+    \n\n\n<b>Eligibility Criteria :</b>
+    \n\n<ul><li>Complete 10+12th in PCM with minimum aggregate marks of 60%.</li>
+        \n\n<li>Qualify Entrance Exams like :
+            \n\nJEE Main- JEE Main is an online National Level entrance exam conducted to grant admission for engineering programs. It is conducted by the National Testing Agency (NTA) and is 3 hours long.
+            \n\nJEE Advanced- JEE Advanced or Joint Entrance Exam Advanced is a 3 hour long online national level entrance exam conducted by one of the IITs every year.
+            \n\nKCET- kCET is also known as Karnataka Common Entrance Test.Karnataka CET Exam is a state-level entrance exam organized for providing admissions in Engineering, Pharmacy, Pharma D and other courses offered by colleges and institutions located in the state.</li></ul>
+    \n\n\n<b>Some Job Profiles :</b>
+        \n\n<ul><li><b>Software Developer</b>
+            \n\nThe role of software developers is to develop applications that enable people to perform specific tasks on a computer or another device.</li>
+        \n\n<li><b>Software Engineer :</b>
+        \n\nSoftware engineer design, develop, maintain, test, and evaluate computer software.</li>
+        \n\n<li><b>Lecturer/Professor :</b>
+            \n\nA computer science lecturer or professor would impart knowledge of the subject. The role will also include teaching students about the nuances of computer applications and designs applicable in the field.</li>
+            \n\n<li><b>Software Quality Assurance Engineer :</b>
+                \n\nSoftware quality assurance engineer is a software tester who develops various codes and test cases in order to analyse the efficiency and accuracy of a software product. These types of computer systems engineer jobs include handling a variety of tasks that are both technical and non-technical.
+            </li></ul></string>
+
+    <string name="ece"><b>Info :</b>\n\nElectronics engineers use their knowledge to design, develop, evaluate, and maintain electronic systems and components. They may be employed by small companies or work in commercial sectors. Day-to-day duties vary based on the field, but they generally design, plan, perform research, inspect the equipment, attend conferences, and liaise with others.
+        \n\n\n<b>Duration :</b>\n\n4 Years.
+    \n\n\n<b>Eligibility Criteria :</b>
+    \n\n<ul><li>Complete 10+12th in PCM with minimum aggregate marks of 60%.</li>
+        \n\n<li>Qualify Entrance Exams like :
+            \n\nJEE Main- JEE Main is an online National Level entrance exam conducted to grant admission for engineering programs. It is conducted by the National Testing Agency (NTA) and is 3 hours long.
+            \n\nJEE Advanced- JEE Advanced or Joint Entrance Exam Advanced is a 3 hour long online national level entrance exam conducted by one of the IITs every year.
+            \n\nKCET- kCET is also known as Karnataka Common Entrance Test.Karnataka CET Exam is a state-level entrance exam organized for providing admissions in Engineering, Pharmacy, Pharma D and other courses offered by colleges and institutions located in the state.</li></ul>
+    \n\n\n<b>Some Job Profiles :</b>
+    \n\n<ul><li><b>t</b></li></ul></string>
+
+    <string name="ai"><b>Info :</b>\n\n
+    \n\n\n<b>Duration :</b>\n\n4 Years.
+    \n\n\n<b>Eligibility Criteria :</b>
+        \n\n<ul><li>Complete 10+12th in PCM with minimum aggregate marks of 60%.</li>
+        \n\n<li>Qualify Entrance Exams like :
+        \n\nJEE Main- JEE Main is an online National Level entrance exam conducted to grant admission for engineering programs. It is conducted by the National Testing Agency (NTA) and is 3 hours long.
+            \n\nJEE Advanced- JEE Advanced or Joint Entrance Exam Advanced is a 3 hour long online national level entrance exam conducted by one of the IITs every year.
+            \n\nKCET- KCET is also known as Karnataka Common Entrance Test.Karnataka CET Exam is a state-level entrance exam organized for providing admissions in Engineering, Pharmacy, Pharma D and other courses offered by colleges and institutions located in the state.</li></ul>
+    \n\n\n<b>Some Job Profiles :</b>
+    \n\n<ul><li><b>t</b></li></ul>
+    </string>
+
+    <string name="bca"><b>Info :</b>\n\nBachelor Of Computer Application (BCA) as the name implies, the major focus of BCA is to make a strong emphasis on the application of computer science in the current scenario. Understanding how hardware works and the technical side of things in-depth is not very important here, but a brief idea is much needed.
+    \nThis program includes subjects as computer network, web development, mobile application development, multimedia technology, and the fundamentals of computer programming. Here we will also be taught a few of the subject that helps in improving and managing ourselves in the corporate field.
+    \n\n\n<b>Duration :</b>\n\n3 Years.
+    \n\n\n<b>Eligibility Criteria :</b>
+    \n\n<ul><li>Complete 10+12th in PCM with minimum aggregate marks of 50%.</li></ul>
+    \n\n\n<b>Some Job Profiles :</b>
+    \n\n<ul><li><b>Data Scientist :</b>
+        \n\nData scientists help businesses gain valuable insights from swathes of data. Data scientists help companies find solutions to their business problems. With data, companies can make informed decisions and plans.</li>
+            \n\n<li><b>Technical Support Engineer :</b>
+            \n\nTech Support Engineers are responsible for assisting the company in resolving technical issues with customer accounts. Aside from customer issues, technical support engineers solve company software infrastructure issues. </li>
+        \n\n<li><b>Digital Marketer :</b>
+            \n\nDigital marketing is a well-known high-income area for BCA graduates. Digital Marketers are responsible for maintaining the company\'s online presence and reputation. Digital Marketers use content marketing, search engine optimization, social media marketing, and various other techniques.</li>
+        \n\n<li><b>Computer Programmer :</b>
+            \n\nA computer programmer\'s job profile, which is broadly included in the BCA, is to write and write computer software code, ensuring a smooth flow of computer programs, testing their functionality, and working on the program\'s documentation.</li>
+        \n\n<li><b>System Engineer :</b>
+            \n\nThe system engineer is responsible for managing and monitoring the operating systems and software installed in the company. In addition, they configure and test software applications and systems management tools to maximize the use of the technical infrastructure for company employees.</li>
+        </ul>
+        \n\n\n<b>Courses after BCA :</b>
+        \n\n<ul><li>MCA (Master of Computer Application)</li>
+        \n\n<li>MBA (Master of Business Administration)</li></ul>
+    </string>
+
+    <string name="barch"><b>Info :</b>\n\nB.Arch is a field of architecture that deals with theory and practice to allow students to gain a solid understanding of the planning, design, and construction of physical structures of various kinds. Any construction project is overseen by a qualified architect, from the ideation phase to the mapping phase. The job opportunities as a B.Arch graduate has gone high because of the current industrialization and development, thus making it a very popular and paid one.
+    \n\n\n<b>Duration :</b>\n\n5 Years.
+    \n\n\n<b>Eligibility Criteria :</b>
+    \n\n<ul><li>Complete 10+12th in PCM with minimum aggregate marks of 50%. (OR)</li>
+            \n\n<li>10th + 3 years Diploma (any stream)</li>
+        \n\n<li>Qualify Entrance Exams like :
+            \n\nKCET- kCET is also known as Karnataka Common Entrance Test.Karnataka CET Exam is a state-level entrance exam organized for providing admissions in Engineering, Pharmacy, Pharma D and other courses offered by colleges and institutions located in the state.
+            \n\nNATA- The National Aptitude Test in Architecture (NATA) and the Architecture Aptitude Test (AAT) are two of the most popular B.Arch entrance exams. The former is widely accepted by colleges offering this program. The AAT is an entrance exam for admissions to architecture programs offered by the Indian Institutes of Technology (IITs).
+    </li></ul>
+    \n\n\n<b>Some Job Profiles :</b>
+        \n\n<ul><li><b>t</b></li></ul>
+    </string>
+
+    <string name="mbbs"><b>Info :</b>\n\nIn India, Bachelor of Medicine and a Bachelor of Surgery (MBBS) is 5 years and 6 months undergraduate medical course pursued by aspiring doctors. MBBS is a professional degree required to become a doctor, diagnose diseases, prescribe medicine, and conduct surgery. MBBS has been abbreviated from the Latin word Medicinae Baccalaureus Baccalaureus Chirurgiae.
+    \n\n\n<b>Duration :</b>\n\n5 Years 6 months.
+    \n\n\n<b>Eligibility Criteria :</b>
+    \n\n<ul><li>Complete 10+12th in PCB with minimum aggregate marks of 50%.</li>
+        \n\n<li>Qualify Entrance Exams like :
+            \n\nNEET- NEET is the National Eligibility cum Entrance Test conducted in offline mode to offer admission in MBBS, BDS, AYUSH, Nursing, etc courses. All the government and private medical colleges will offer admission under 15% AIQ and 85% State level quota seats.</li>
+        </ul>
+        \n\n\n<b>Some Job Profiles :</b>
+        \n\n<ul><li><b>Medical Surgeon :</b>
+            \n\n The surgeon is liable for the patient\'s essential diagnosis, conducting the surgery and providing continuous medical care and treatment for the patient. The surgeon is often regarded as the surgical team leader. Medical surgeons work to make sure collaboration and coordination among all the other leaders of the surgical team, usually requiring another surgeon or an assistant to the surgeon, anesthesiologist, and nursing staff in the operating theatre. Patients are operated by them to enhance or recover health, like repairing injury problems or preventing depression. They follow surgical procedures formed mostly during operating conditions.</li>
+        \n\n<li><b>General Physicians :</b>
+                \n\nMBBS degree holders can start their career as a general physician, who studies, diagnoses, and cures illnesses of patients. Commonly, a physician treats illnesses at primary stages, and if, after diagnosis, the disease is found to be in a critical stage, the patient is referred to a relevant medical practitioner.</li>
+        \n\n<li><b>Paediatrician :</b>
+                \n\nA medical practitioner who specialises in the treatment of illnesses in children and examines their general growth and development. A paediatrician heals children right from their time of birth to their adolescence and even later. They help in early diagnosis of any illness in developing children, guide parents on food and their allergies to children. The practitioner provides preventive care, helps in the growth and development of children with special needs, and monitoring side effects and allergies of medicines.</li></ul>
+    </string>
+
+    <string name="bds"><b>Info :</b>\n\nBDS (Bachelor of Dental Surgery) is the undergraduate degree programme in the dental field. BDS is one of the most sought after courses after MBBS.In India, BDS is regulated by the Dental Council of India where all dentists have to register to practice after the completion of their study. In BDS course, students are taught about dentures, dental problems and surgery. After completing the course, students become eligible to use the title of ‘Dr’ before their name. They can practice dentistry after getting a license from DCI.
+    \nAfter finishing the degree, they can work in government or private hospital as a dentist. In addition, they can make a career in pharmaceutical and medical device manufacturing industries. They can also start private practice as a Dental surgeon.
+    \n\n\n<b>Duration :</b>\n\n5 Years + 1 Year of internship .
+    \n\n\n<b>Eligibility Criteria :</b>
+    \n\n<ul><li>Complete 10+12th in PCB with minimum aggregate marks of 50%.</li>
+        \n\n<li>Qualify Entrance Exams like :
+                \n\nNEET- NEET is the National Eligibility cum Entrance Test conducted in offline mode to offer admission in MBBS, BDS, AYUSH, Nursing, etc courses. All the government and private medical colleges will offer admission under 15% AIQ and 85% State level quota seats.</li>
+        </ul>
+    </string>
+
+    <string name="bpharma"><b>Info :</b>\n\nB.Pharma also is known as the Bachelor of Pharmacy is a bachelor\'s academic degree in the field of pharmacy. B.Pharmacy is the study of various subjects that come under pharmaceutical science such as drug safety, discovery, medical chemistry, industrial pharmacy, and several other subjects. This degree is apt for those individuals who are interested in becoming pharmacists and want to know how various medicinal drugs affect a human body.
+    \n\n\n<b>Duration :</b>\n\n4 Years.
+    \n\n\n<b>Eligibility Criteria :</b>
+    \n\n<ul><li>Complete 10+12th in PCB with minimum aggregate marks of 50%.</li>
+    \n\n<li>Students who have completed their three-year diploma in pharmacy or D.Pharma are also eligible to pursue B.Pharmacy.</li>
+        \n\n<li>Qualify Entrance Exams like :
+                \n\nKCET- kCET is also known as Karnataka Common Entrance Test.Karnataka CET Exam is a state-level entrance exam organized for providing admissions in Engineering, Pharmacy, Pharma D and other courses offered by colleges and institutions located in the state.</li></ul>
+    \n\n\n<b>Some Job Profiles :</b>
+        \n\n<ul><li><b>Chemical Technician :</b>
+        \n\nA chemical technician also known as a drug technician is a professional who uses lab equipment and techniques to assist chemists and researchers to develop, produce, experimenting and evaluate various chemical products. A chemical technician is responsible for processing chemicals and writing reports.</li>
+        \n\n<li><b>Drug Inspector :</b>
+            \n\nA drug inspector is an individual who has the authority and is qualified to supervise the manufacturing of medical drugs. It is the responsibility of a drug inspector to monitor the safety, utility, and efficiency of the drug which has been manufactured before it is being sold at the counter. It is their primary responsibility to ensure the quality of the drug.</li>
+        \n\n<li><b>Pharmacist :</b>
+            \n\nThose who have completed their B. Pharma can also become pharmacists. The primary responsibility of a pharmacist is to provide prescribed medicine or drugs to the patients. They are also responsible for telling the patient how to consume medicine. Often, they also oversee how the patient consuming the medicine. In certain cases, they also conduct health screenings and give immunizations.</li>
+        \n\n<li><b>Health Inspector :</b>
+            \n\nAs a health inspector the individual must investigate various drugs that are deemed harmful for human consumption. It is their duty to eliminate any drugs, that might prove harmful for use by human beings. Health inspectors often look into the complaints and other health concerns, such as keeping a tab on harmful and expired drugs.</li>
+        </ul>
+    </string>
+
+    <string name="bcom"><b>Info :</b>\n\nBachelor of Commerce course is one of the most prevalent undergraduate courses across the country. Candidates who opt for the B.Com course get an insight into banking, finance, accountancy and insurance which further help them seek high-paying job profiles and positions in reputed companies across the globe.
+        \nIn this era of globalization and industrialization, there is a boom in jobs related to the B.Com course and one who pursues it, gets a chance to become successful in his/her career. B.Com course graduates can make a career in coporate and financial services, banking, management services. One also has the opportunity to practise independently and make a business out of it.
+        \nB.Com course is one of the most popular courses to opt for after class XII. As per many surveys, it has also been observed that the B.Com course is the third most desired degree chosen by individuals across the country, and with each passsing year, the number of students opting for this course increases.
+    \n\n\n<b>Duration :</b>\n\n3 Years.
+    \n\n\n<b>Eligibility Criteria :</b>
+        \n\n<ul><li>Complete 10+12th in Commerce with minimum aggregate marks of 50%.</li></ul>
+    \n\n\n<b>Some Job Profiles :</b>
+        \n\n\n<ul><li><b> Accountants :</b>
+        \n\nAfter specialising in accounting subjects, you can become an accountant and land a good job. Many companies are in constant need of good accountants and they also pay well.</li>
+        \n\n<li><b>Banker :</b>
+            \n\nMany commerce students aim for banking jobs. These are some of the cushiest jobs that have excellent pay and benefits. Banking jobs also have a lot of job security.</li>
+            \n\n<li><b>Marketing Executives :</b>
+            \n\nOwing to a B.Com. graduate’s knowledge of products, services, finance, accounting, and marketing, they do well in the field of marketing. Marketing jobs also come with additional perks like sales commissions.</li>
+        \n\n<li><b>Insurance Brokers :</b>
+            \n\nInsurance is one of the fastest-growing industries in the country. Many B.Com. graduates find stable careers in this industry. Insurance brokers have high earning potential.</li>
+        </ul>
+    </string>
+
+    <string name="bba"><b>Info :</b>\n\nBBA full form is Bachelor of Business Administration. According to Wikipedia, "Business Administration "is the administration of a commercial enterprise. It includes all aspects of overseeing and supervising business operations." BBA subjects deal with general management, managerial economics, accounting, organizational behaviour, cost accounting, business law, marketing, etc. A BBA degree and some years of work experience will surely take students to a leadership position in any organization. The BBA course duration is three years.
+    \nBBA courses subjects deal with general management, managerial economics, accounting, organizational behaviour, cost accounting, business law, marketing, etc. There are plenty of job opportunities available for BBA graduates. A BBA degree and some years of work experience will surely take students to a leadership position in any organization.After course completion, BBA graduates can find job opportunities in finance, marketing, human resources, banking, accounting firms, etc.
+    \n\n\n<b>Duration :</b>\n\n3 Years.
+    \n\n\n<b>Eligibility Criteria :</b>
+        \n\n<ul><li>Complete 10+12th in Commerce with minimum aggregate marks of 50%.</li></ul>
+    \n\n\n<b>List of BBA Specialisations :</b>
+        \n<ul><li>BBA Finance</li>
+        \n<li>BBA Human Resource</li>
+        \n<li>BBA Marketing</li>
+        \n<li>BBA Information Technology</li>
+        \n<li>BBA Hospitality and Hotel Management</li>
+        \n<li>BBA Communication and Media Management</li></ul>
+    \n\n\n<b>Some Job Profiles :</b>
+        \n\n<ul><li><b>Human Resource Executive :</b>
+            \n\nThe responsibility of a Human Resource Executive (HR Executive) includes ensuring that the strategies, methodology and HR programmes are administered and the objectives of the organisation are consistent with proficient benchmarks, state and government administrative prerequisites and laws. Also, planning, advising on HR strategies and overseeing human asset activities such as enrollment and pay is the key responsibility of an HR Executive.</li>
+        \n\n<li><b>Marketing Executive :</b>
+            \n\nA Marketing Executive develops official statements and is responsible for promotion for the organisation’s products, conducting and analysing competitive research, and establishing objectives, expectations and results for marketing programmes.</li>
+            \n\n<li><b>Sales Executive :</b>
+            \n\nThe Sales Executive is required to design and implement strategies to increase company sales revenue and expand the company’s base in the market.</li>
+            \n\n<li><b>Research and Development (R and D) Manager :</b>
+            \n\nA R and D Manager directs and manages the development and research programmes of an organisation in order to meet the needs of the organisation. Measuring the scope of research projects and making sure that they are delivered on time within the stipulated budget is the role of an R and D Manager.</li>
+        </ul></string>
+
+    <string name="ca"><b>Info :</b>\n\nCA or Chartered Accountancy is a professional course that deals with the financial assessment, auditing, taxation, and accounting of companies. The course is conducted by the ICAI (Institute of Chartered Accountants of India). After the CA course completion, aspirants can work in a company\'s taxation and financial sector and start with titles such as consultants, auditors, financial managers, and more.
+    \n\nProspects can pursue CA course via the Foundation course or the Direct Entry Route. The Foundation course is for those who have completed class 12, whereas the Direct Entry Route is for those who have completed Graduation.
+        \n\nThe CA course details contain all the information a student requires to pursue the Chartered Accountant course. Essentially, there are 2 levels to the CA course:
+        \n\n<ul><li>CA Foundation</li>
+        \n\n<li>CA Intermediate</li>
+        \n\n<li>CA Final</li></ul>
+    \n\n\n<b>Duration :</b>\n\n5 Years.
+    \n\n\n<b>Eligibility Criteria :</b>
+        \n\n<ul><li>Complete 10+12th in Commerce with minimum aggregate marks of 50%.</li>
+        \n\n<li>Also some entrance exams has to be taken.</li></ul>
+     \n\n\n<b>\List of top industries for CA :</b>
+        \n<ul><li>Audit and Taxaction</li>
+        \n<li>Tax Advisory Firms</li>
+        \n<li>Insurance Sector</li>
+        \n<li>Law Firms</li>
+        \n<li>Cost Accountant</li>
+        \n<li>Financial Advisory</li>
+        \n<li>Investment Banking Firms</li></ul>
+    </string>
+
+    <string name="ba"><b>Info :</b>\n\nBachelor of Arts or BA is an undergraduate program in arts. There are various disciplines such as English, Hindi, History, Journalism and Psychology in which BA can be pursued. The course can be pursued right after passing class 12th in India. Usually, a three-year course Arts programme is offered by colleges under various streams such as Design, Mass Communication,Hospitality. BA (Hons) or BA course can be pursued in a full-time, part-time, correspondence or distance education mode. It is mandatory to study five subjects along with few elective subjects. The subjects will vary depending on the selected subject.
+    \n\n\n<b>Duration :</b>\n\n3 Years.
+    \n\n\n<b>Eligibility Criteria :</b>
+        \n\n<ul><li>Complete 10+12th in any stream with minimum aggregate marks of 50%.</li></ul>
+        \n\n\n<b>Bachelor of Arts Courses :</b>
+        \n\nBA History, BA English, BA Hindi, BA economics, BA Sociology etc.
+        \n\n\n<b>Some Job Profiles :</b>
+        \n\n\n<ul><li><b>Journalism and Mass Communication :</b>
+        \n\nThe study of disseminating information to a large audience via multiple modes of communication is known as mass communication. Whereas, Journalism is the practice of reporting on current events for newspapers, periodicals, and other publications. Various job profiles are Content Writer, Journalist, Reporter, Editor, Public Relations Associate and more.</li>
+        \n\n<li><b>Social Work :</b>
+            \n\nIt is the field wherein an individual is taught how to help uplift and solve the problems of a person, society and more. It deals with helping people function the best they can in their environment. Some of the job profiles are Child and Family Social Worker, School Social worker, Clinical Social Worker, Mental Health Social worker and more.</li>
+        \n\n<li><b>Foreign Language Experts :</b>
+            \n\nWith a BA in Foreign language, one can become a Teacher (B.Ed degree is a must), Interpreter, Translator, Book writer, and more.</li>
+        \n\n<li><b>Counsellor :</b>
+            \n\nA counselor is a trained professional who helps others by listening to them and giving them advice. They may be a psychologist or social worker. Counselors help people with things like career development, anger management, health, and lifestyle, etc.</li>
+        \n\n<li><b>Content Creator :</b>
+        \n\nContent creators can be employed in any field ranging from copywriting to travel writing, blogging, etc. They are also required in big MNCs to develop content for brands and advertising.</li>
+        \n\n<li><b>Air Hostess/ Flight Attendant :</b>
+            \n\nThey are responsible for the safety of passengers inside the flight, taking care of them and serving them onboard.</li>
+        \n\n<li><b>Executive Assistant :</b>
+            \n\nAn Executive Assistant performs the role similar to a secretary or administrative assistant. They usually perform tasks from accepting and making phone calls, setting business meeting agendas to reviewing incoming reports, etc.</li></ul>
+        \n\n\n<b>Some courses after BA :</b>
+        \n\n<ul><li>MBA (Master of Business Administration)</li>
+        \n\n<li>LLB (Bachelor of Legislative Law)</li>
+        \n\n<li>MA (Master of Arts)</li></ul>
+    </string>
+
+    <string name="bjmc"><b>Info :</b>\n\nBJMC (Bachelor of Journalism and Communication) is a three-year duration undergraduate degree course for candidates who wish to build their career in the field of Journalism and Mass Communication. After successfully completing the course candidates are able to develop as well as refine their skills of gathering, transmitting, and delivering information to a large audience. Career opportunities for students in the field of Mass Communication are very high. Candidates who successfully complete BJMC can choose to work for news channels, newspapers, publishing houses, television, radio, internet, etc and earn a healthy remuneration. Given below are the complete requirements of BJMC course in terms of its eligibility criteria, course curriculum, job prospects and more.
+        \n\n\n<b>Duration :</b>\n\n3 Years.
+    \n\n\n<b>Eligibility Criteria :</b>
+        \n\n<ul><li>Complete 10+12th in any stream with minimum aggregate marks of 50%.</li></ul>
+        \n\n\n<b>Some Job Profiles :</b>
+        \n\n\n<ul><li><b>Media Consultant :</b>
+        \n\nHe/She is the one who is hired by the company or the organization for positive press coverage. They basically design media releases to reframe public perception.</li>
+        \n\n<li><b>Journalist :</b>
+            \n\nA Journalist basically works on his own (freelance). They may also work for a newspaper, radio, or television program.</li>
+        \n\n<li><b>Content Marketing Manager :</b>
+            \n\nImplementation of comprehensive content-delivery plans, including print, video, audio, and other forms of content is the main responsibility of a content marketing manager.</li>
+        \n\n<li><b>Public Relations Specialist :</b>
+            \n\nTheir aim is to act as a contact person between the employer and the public. They establish good relationships with the clients and try to maintain them for the long term.</li>
+        \n\n<li><b>News Analyst :</b>
+            \n\nNews Analyst Role is to produce and publish news at various platforms of media like digital media platforms, print media, and alike. They gather information on news feeds, create videos, take interviews, and alike.</li>
+        \n\n<li><b>Photojournalist :</b>
+            \n\nPhotojournalists are responsible for writing blogs and articles on the photos they have captured for any magazine or brochure.</li>
+        \n\n<li><b>Social Media Manager :</b>
+            \n\nHe basically represents a company across various channels as the voice of the brand and will also give replies to all the comments, compile campaigns, and create content.</li>
+        </ul>
+    </string>
+
+    <string name="bfa"><b>Info :</b>\n\nBFA or Bachelor of Fine Arts is an undergraduate degree course which deals with the study of Visual or Performing Arts. The course is sometimes also referred to as Bachelor of Visual Arts (BVA) in which the study of Visual Arts includes subjects such as painting, sculpture, photography, literature, animation, etc. On the other hand, the study of Performing Arts involves subjects such as dance, theatre and music. A Bachelor of Fine Arts degree often requires an area of specialisation to be chosen by the candidate as per his/her interest.
+    \n\nDepending on the candidate’s chosen specialisation, BFA is typically a three to four-year duration course that can be pursued as a full-time, part-time, online or distance-learning programme.
+    \n\nA BFA course not only educates but reforms the skills of candidates to enable them to become artists in their chosen field. Career opportunities for fine arts graduates are ample wherein they can choose to be an art teacher, writer, fine artist, actor, art director, and a lot more. These days many students are opting for a career in Fine Arts not only to earn high remuneration but also to gain popularity and prestige.
+    \n\nAspirants can choose an area in which they can specialise in subjects that can not only enhance their skills and fine-tune the aspirant’s creativeness, it also allows candidates to explore varied options.
+    \n\n\n<b>Duration :</b>\n\n3-4 Years.
+    \n\n\n<b>Eligibility Criteria :</b>
+        \n\n<ul><li>Complete 10+12th in any stream with minimum aggregate marks of 50%.</li></ul>
+        \n\n\n<b>Popular Specializations :</b>
+        \n\nPainting, Acting, Applied Arts, Animation, Pottery and Ceramics, Digital Arts, Fashion Design, Textile Design etc.
+        \n\n\n<b>Some Job Profiles :</b>
+        \n\n\n<ul><li><b>Fine Artist :</b>
+        \n\nThe main job role of a fine artist is to produce artwork using various techniques. As a fine artist, a candidate may find a job as painter, sculptor, illustrator or printmaker in a commercial art studio, design company, publishing house, advertising agency, etc. A fine artist can also choose to work independently and sell their work through art galleries.</li>
+        \n\n<li><b>Actor :</b>
+            \n\nCandidates who possess a BFA degree with a specialisation in theatre can work as an actor on screen or stage. As an actor, a candidate can express ideas and portray characters in television, film, theatre and other performing arts media. An actor can also choose to work at theme parks or live events.</li>
+        \n\n<li><b>Multimedia Artist :</b>
+            \n\nCandidates who pass their BFA course with a specialisation in multimedia are responsible for creating animation sequences or storyboards. Such candidates typically work for ad agencies or software, gaming, designing, and television companies.</li>
+        \n\n<li><b>Photographer :</b>
+            \n\nA photographer is an artist with a camera who uses his/ her technical skills as well as artistic ability to take pictures of people, places, landscapes, food, and a lot more.</li>
+        \n\n<li><b>Art Director :</b>
+            \n\nCandidates who clear BFA courses with a graphic or multimedia design specialisation usually go-ahead to become an art director. Major responsibilities of an art director include guiding the development of visual and written material through the layout and design of artwork and copy. An art director typically works for publishing houses or ad agencies.</li>
+        \n\n<li><b>Graphic Designer :</b>
+            \n\nA graphic designer typically creates visual concepts by hand or by using software to communicate ideas that inform as well as captivate consumers. A graphic designer develops an overall layout and production design for advertisements, magazines, brochures, etc.</li>
+        \n\n<li><b>Animator :</b>
+            \n\nAn animator has the main job of creating pictures and visuals for movies, video games, books, television, etc. In today’s digital era, most of the animation is computer-generated but animators still need to create their initial sketches by hand.</li>
+        \n\n<li><b>Musician :</b>
+            \n\nThe main job of a musician is to compose music and writing out catchy tunes. A musician can work as a solo artist or can also work in bands, choirs, orchestras, etc. A musician can develop music for video games, commercials, stage productions, etc.</li>
+        </ul>
+    </string>
+
+    <string name="pop11">\n\n<b>WHO IS A SOFTWARE ENGINEER?</b> \n\nSoftware engineers are the unsung heroes of the digital sector.It’s thanks to their skills (and, of course, the wonders of modern engineering) that our devices can transcend their plastic and silicon exteriors to become the invaluable tools we use today.
+        \nSoftware engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.
+        \n\n<b>1.Determine your software engineering career path!</b>
+        \nGenerally speaking, there are three main paths aspiring software engineers can take to pursue their education: coding bootcamps, college, and self-directed learning.Each route comes with its own set of pros and cons, so consider them carefully before enrolling in an academic course!Now, let’s assess the educational options which may help you become a software developer from scratch.
+        \n\n\n<b>a.Coding bootcamp</b>
+        \nBy attending a coding bootcamp, you’ll have the opportunity to gain a set of job-ready programming skills through an accelerated curriculum. Software engineering is challenging to learn from scratch — but with a bootcamp, even industry newcomers can build a strong knowledge base and ready themselves for an entry-level role quickly if they are willing to put in the time, hard work, and dedication.
+        \nCoding bootcamp may be worth it for those who don’t have the time or resources to attend a four-year degree program. These courses last just three to six months, depending on whether you opt for a part- or full-time schedule, and are often cheaper than multi-year degree programs. Bootcamps are also highly flexible; many offer virtual, in-person, and weekend options to suit working professionals’ scheduling needs.
+        \nSome of the best online Coding Bootcamps are\nCoding Dojo\nThinkful\nHack Reactor\nCodesmith\nBrainStation\nDesignlab
+        \n\n\n<b>b.College education</b>
+        \nCollege is far and away the most popular educational route among developers today. In 2020, Stack Overflow found that nearly 75 percent of surveyed developers had achieved at least the equivalent of a bachelor’s degree or higher, remaining consistent with numbers observed in previous years.Four-year degree programs are popular for a reason: they cover computer science theory and practice, provide communal learning environments, offer access to supportive instructors, and facilitate networking opportunities. These university degree programs are also usually well-regarded by employers. We recommend you to take up BE or B.Tech degree in computer science or Information science specialization.
+        \nTo know more about various course options after 10 or 12 please explore our general category!!!
+        \n\n\n<b>c.Self-directed learning</b>
+        \nThere is also a range of self-directed learning opportunities to explore for those who prefer less formal academic options. In addition to being cost-effective, these classes are designed to suit self-guided instruction and scheduling, making them highly personalized by default.But the flexibilities provided by self-directed learning come at a cost. Those who choose to learn independently don’t have the accountability a set schedule or formal instructor offers; rather they are responsible for keeping themselves on track and productive. While this approach may work well for some, those who are less self-motivated may find themselves falling behind on their upskilling.
+        \nFor instance, learners can pick up necessary coding skills via free educational websites like\nKhan Academy\nfreeCodeCamp\ngeeksforgeeks\n\n\n
+        \n\n\n
+    </string>
+
+    <string name="pop12">
+        \n\n<b>WHAT ARE THE SKILLS REQUIRED TO BE A SOFTWARE ENGINEER?</b>
+        \n\n<b>Programming skills:</b>
+        \n\n<b>JavaScript</b>\nJavaScript has been consistently cited as the most commonly used programming language globally. The enduring relevance of JavaScript makes the language a go-to by default; it remains one of the easiest languages to learn and is used by most major web browsers.
+        \n\n<b>Python</b>\nPython is another common language used primarily for back end development and data science. This general-purpose language is tailored to several different programming styles — such as object-oriented and functional — to aid in a variety of projects. Like JavaScript, Python is known for being relatively easy to learn, but even seasoned software engineers should consider its offerings; over 50 percent of hiring managers now seek candidates fluent in the language.
+        \n\n<b>Go </b>\nGoogle-developed Go has seen a steady increase in popularity since its 2009 inception. According to analysts at HackerRank , it has been “the #1 language developers want to learn next” for three consecutive years; it was also found to be the “12th most known language for 2020.” Given the age of many of its prominent competitors, it is safe to assume Go will only continue to carve a deeper niche in the broad programming spectrum, making it a valuable language for today’s engineers.
+        \n\n<b>Java</b>\nJava is the fifth-most commonly used language among professional developers. As a general-use and object-oriented language, Java is especially valuable for developers creating objects that “encompass functions and data.” The language’s versatility, paired with its consistent demand among all notable languages, keeps its appeal timeless.
+        \n\n<b>HTML</b>\nDespite its potentially intimidating name, “HyperText Markup Language” (HTML) is a highly accessible language often used to describe a web page’s formatting and overall appearance. As a markup language, HTML is more specific in its usability, but remains one of the most commonly used languages worldwide.
+        \n\n<b>2.Object-Oriented Design (OOD):</b>
+        \nObject-oriented design encompasses four key principles:\nAbstraction\nEncapsulation\nInheritance\nPolymorphism
+        \nObject-oriented design encompasses four key principles:\nAbstraction\Encapsulation\nInheritance\nPolymorphism
+        \n\n<b>3. Study Data Structures and Algorithms</b>
+        \nAn algorithm is a step by step approach to solve a specific problem, whereas data structure is the way of organizing data. These two concepts help programmers to solve the problem within less amount of time and memory. A software engineer is always expected to give the best solution for a specific problem taking care of time and memory both. They should know which algorithm and which data structure will be suitable or the best fit for a certain problem. Consider an example of searching an element in a large set of data. You can search the element using a linear search or binary search. Now you need to decide which approach is better (need to take care of time and memory management) to search the data (It depends on the number of data). We highly recommend you to focus on these two topics which are the heart of programming. Also, study mathematics if you can, because it helps you to analyze and design the best algorithm for a specific problem.
+        \nYou can take help of some portals like\nGeeksforGeeks\nCoderbyte\nCodinGame
+        \n\n\n<b>4.Software Testing and Debugging</b>\nEven in the age of automation, understanding the ins and outs of software testing and debugging is one of the core technical skills required if you want to become a Software Engineer.Though new AI programs can perform some of these tasks, testing is still a costly and time-consuming part of any software development project so becoming adept at performing these tasks is valuable to a Software Engineer. The testing process also relies on one of a Software Engineer’s soft skills: problem solving.
+        \n\n\n<b>5.Communication and Collaborations</b>
+        \nIt’s extremely rare that Software Engineers work in isolation.Software engineers need to collaborate and communicate with their team to complete projects. Being on a team isn’t always easy, but listening to differing opinions offers new perspectives, and will ultimately help the team solve problems. A software engineer must able to clearly communicate – in writing and orally – with virtually any type of team or company stakeholder, regardless of that person’s technical background.
+        \n\n\n<b>6.Team player</b>
+        \nSoftware Engineers typically work as part of a team – or leading one – and creating or maintaining great software programs requires the input and expertise of a great number of people. Success or failure will be shared by that team. Successful Software Engineers must understand how to compromise, how to motivate others to deliver the best work they’re capable of, and how to take and learn from criticism.
+        \n\n\n<b>7.Problem solving</b>
+        \nProblem-solving skills are relevant in every step of software engineering. There will always be problems, bugs, deadlines, miscommunications, and broken code. Being able to approach problems and create solutions to solve them is an indispensable skill. Successfully steering software development projects to completion requires quickly identifying and solving a lot of issues along the way. Software Engineers must be curious and creative problem-solvers, able to sift through code to pinpoint a programming error while also anticipating other issues before they arise and adapting quickly to solve them.
+        \n\n\n<b>8.Multitasking</b>
+        \nAs a software engineer, you need to manage multiple projects with competing deadlines. This is why multitasking is a non-negotiable soft skill for software engineers. Successful software engineers understand that prioritization and time management are key.
+        \n\n\n<b>9.Continuous Learning</b>
+        \nSoftware engineers have to be committed to continuous learning. Whether it’s a new language or software, great engineers are prepared to be a student forever. Continuous learning isn’t all lectures and studying. Often it happens by talking with others in your field and examining their work.\n\n
+        \n\n\n
+    </string>
+
+    <string name="pop14">
+        \n\n<b>Apply for your first software engineer job!!!</b>
+        \nSeven common career paths for software engineers include :
+        \n<b>1.Front-end engineer</b>\n\n<b>Job Description : </b>\nFront-end engineers build websites and applications that are user-friendly and engaging.\n\n<b>Skill Set :</b> \n- Technical skills \n- front-end development tools\n-Problem-solving and analytical skills\- Communication and collaboration skills \n\n<b>Salary : </b>\n
+        \n<b>2.Back-end engineer</b>\n\n<b>Job Description :</b>\nBack-end engineers build the structure for software. They spend their time writing server scripts, business logic, and API’s.\n\n<b>Skill set :</b>\n- Fluency in programming languages \n- Server-side experience with SASS and Less \n- An understanding of server compliance\n- Knowledge of database systems and operating systems\n\n<b>Salary : </b>\n
+        \n<b>3.Full-stack engineer</b>\n\n<b>Job Description:</b>\nA full-stack engineer has both front-end and back-end skills.\n\n<b>Skill Set :</b>\n- Strong interpersonal skills \n- Knowledge of the complete software development process\n- Project management skills\n- Knowledge of the fundamentals of design\n\n<b>Salary : </b>\n
+        \n<b>4.DevOps engineer</b>\n\n<b>Job Description:</b>\nDevOps engineers typically don’t work directly with code, but they do need to have a general knowledge of languages and automation scripts. \n\n<b>Skill set :</b>\n- Strong interpersonal skills\n- Time management\n-Problem-solving skills/n- Knowledge of relevant tools\n\n<b>Salary : </b>\n
+        \n<b>5.QA Engineer</b>\n\n<b>Job Description:</b>\nEngineers responsible for the testing of software.\n\n<b>Skill Set :</b>\n-Communication skills\m- Problem-solving skills\n-Curiosity to delve into the folds of software to evaluate different features\n- Analytical skills\n- Basic coding skills for scripting automated tests\n\n<b>Salary : </b>\n
+        \n<b>6.Security engineer</b>\n\n<b>Job Description:</b>\nSecurity engineers build and maintain security systems for companies. In this role, the engineer runs security tests, responds to security incidents, and researches new attack vectors.\n\n<b>Skill set :</b>\n- Experience with cyber attack detection and response\n- Experience with digital forensics\n- Building and maintaining firewalls\n\n<b>Salary : </b>\n
+        \n<b>7.Data engineer</b>\n\n<b>Job Description:</b>\nThe title of data engineer encompasses a large swath of sub-specializations, including data analytics, AI, and machine learning. A data engineer’s main role is to analyze large amounts of data. \n\n<b>Skill set :</b>\n- Database systems like SQL and NoSQL\n- Data warehousing solutions\n- ETL tools\n- Machine learning\- Data APIs\n- Python, Java, and Scala programming languages\n- Algorithms and data structures\n\n<b>Salary : </b>\n
+        \n\n\n
+    </string>
+
+    <string name="pop13">
+        \n<b>1. Design and Build Software or Projects</b>\n\nMost of the employers are going to ask for the hands-on experience in building software or a project. Your practical experience is more valuable than your academic knowledge or GPA. Those CS fundamentals and concepts which you have learned in your textbooks, you should know how it can be used in building some amazing software. There is no point to learn all the concepts theoretically if you don’t know how to use it practically. So, use whatever you have learned and improved your skills by building some software or projects. You can build some personal or professional projects, you can contribute to some open-source projects and you can showcase it to the recruiters putting everything online. Your potential employer will be able to see your skills and experience through your projects.
+        \n<b>2. Do Some Internships</b>\n\nInternships are the best opportunity for students to get hands-on industry experience and exposure and that’s the reason it opens a lot of job opportunities. A lot of companies offer internships for students who want to work on industry projects. In internship students’ get practical training and real industry exposure where they work on some projects or products related to their skills, they also learn how to work under a team and it helps them to adapt to the company culture.Generally, internships are three to six months long for students and we recommend every student to go for some internship programs during their college time. Doing an internship can be really helpful in getting a full-time job offer and the same company where you are working as an intern can give you the opportunity for a full-time position once you complete your internship. You can read the link Why Internships are Important for Engineering Students or Freshers? to know it’s importance.
+       \n <b>3.Create a powerful resume</b>\n\nIf you have done all the above things then it’s time to start looking for job opportunities. Create a resume, create a nice profile on different job portals, post your resume over there, check these websites on a regular basis and apply for the jobs.Networking really helps in getting some referrals for the job or interviews so make connections, use personal contacts, attend meetups, conferences, seminars and expand your network. You can also visit different companies’ websites and check the job description in the career option. You can directly apply from their career option as well, if your profile will be shortlisted then the recruiter will approach you for further process.
+        \n\n\n
+    </string>
+
+
+    <string name="pop21">\n\n<b>WHO IS A DATA SCIENTIST?</b> \n\nData scientists are big data wranglers, gathering and analyzing large sets of structured and unstructured data. A data scientist’s role combines computer science, statistics, and mathematics. They analyze, process, and model data then interpret the results to create actionable plans for companies and other organizations.
+        \nData scientists are analytical experts who utilize their skills in both technology and social science to find trends and manage data. They use industry knowledge, contextual understanding, skepticism of existing assumptions – to uncover solutions to business challenges.
+        \nA data scientist’s work typically involves making sense of messy, unstructured data, from sources such as smart devices, social media feeds, and emails that don’t neatly fit into a database.
+
+        \n\n<b>1.Determine your data scientist career path!</b>
+        \nGenerally speaking, there are three main paths aspiring software engineers can take to pursue their education: coding bootcamps, college, and self-directed learning.Each route comes with its own set of pros and cons, so consider them carefully before enrolling in an academic course!Now, let’s assess the educational options which may help you become a software developer from scratch.
+        \n\n\n<b>a.Coding bootcamp</b>
+        \nBy attending a coding bootcamp, you’ll have the opportunity to gain a set of job-ready programming skills through an accelerated curriculum. Software engineering is challenging to learn from scratch — but with a bootcamp, even industry newcomers can build a strong knowledge base and ready themselves for an entry-level role quickly if they are willing to put in the time, hard work, and dedication.
+        \nCoding bootcamp may be worth it for those who don’t have the time or resources to attend a four-year degree program. These courses last just three to six months, depending on whether you opt for a part- or full-time schedule, and are often cheaper than multi-year degree programs. Bootcamps are also highly flexible; many offer virtual, in-person, and weekend options to suit working professionals’ scheduling needs.
+        \nSome of the best online Coding Bootcamps are\nCoding Dojo\nThinkful\nHack Reactor\nCodesmith\nBrainStation\nDesignlab
+        \n\n\n<b>b.College education</b>
+        \nCollege is far and away the most popular educational route among developers today. In 2020, Stack Overflow found that nearly 75 percent of surveyed developers had achieved at least the equivalent of a bachelor’s degree or higher, remaining consistent with numbers observed in previous years.Four-year degree programs are popular for a reason: they cover computer science theory and practice, provide communal learning environments, offer access to supportive instructors, and facilitate networking opportunities. These university degree programs are also usually well-regarded by employers. We recommend you to take up BE or B.Tech degree in computer science or Information science specialization.
+        \nTo know more about various course options after 10 or 12 please explore our general category!!!
+        \n\n\n<b>c.Self-directed learning</b>
+        \nThere is also a range of self-directed learning opportunities to explore for those who prefer less formal academic options. In addition to being cost-effective, these classes are designed to suit self-guided instruction and scheduling, making them highly personalized by default.But the flexibilities provided by self-directed learning come at a cost. Those who choose to learn independently don’t have the accountability a set schedule or formal instructor offers; rather they are responsible for keeping themselves on track and productive. While this approach may work well for some, those who are less self-motivated may find themselves falling behind on their upskilling.
+        \nFor instance, learners can pick up necessary coding skills via free educational websites like\nKhan Academy\nfreeCodeCamp\ngeeksforgeeks\n\n\n
+        \n\n\n
+    </string>
+
+    <string name="pop22">
+        \n\n<b>WHAT ARE THE SKILLS REQUIRED TO BE A DATA SCIENTIST?</b>
+        \n\n<b>Programming skills:</b>
+        \n\n<b>JavaScript</b>\nJavaScript has been consistently cited as the most commonly used programming language globally. The enduring relevance of JavaScript makes the language a go-to by default; it remains one of the easiest languages to learn and is used by most major web browsers.
+        \n\n<b>Python</b>\nPython is another common language used primarily for back end development and data science. This general-purpose language is tailored to several different programming styles — such as object-oriented and functional — to aid in a variety of projects. Like JavaScript, Python is known for being relatively easy to learn, but even seasoned software engineers should consider its offerings; over 50 percent of hiring managers now seek candidates fluent in the language.
+        \n\n<b>Go </b>\nGoogle-developed Go has seen a steady increase in popularity since its 2009 inception. According to analysts at HackerRank , it has been “the #1 language developers want to learn next” for three consecutive years; it was also found to be the “12th most known language for 2020.” Given the age of many of its prominent competitors, it is safe to assume Go will only continue to carve a deeper niche in the broad programming spectrum, making it a valuable language for today’s engineers.
+        \n\n<b>Java</b>\nJava is the fifth-most commonly used language among professional developers. As a general-use and object-oriented language, Java is especially valuable for developers creating objects that “encompass functions and data.” The language’s versatility, paired with its consistent demand among all notable languages, keeps its appeal timeless.
+        \n\n<b>HTML</b>\nDespite its potentially intimidating name, “HyperText Markup Language” (HTML) is a highly accessible language often used to describe a web page’s formatting and overall appearance. As a markup language, HTML is more specific in its usability, but remains one of the most commonly used languages worldwide.
+        \n\n<b>2.Object-Oriented Design (OOD):</b>
+        \nObject-oriented design encompasses four key principles:\nAbstraction\nEncapsulation\nInheritance\nPolymorphism
+        \nObject-oriented design encompasses four key principles:\nAbstraction\Encapsulation\nInheritance\nPolymorphism
+        \n\n<b>3. Study Data Structures and Algorithms</b>
+        \nAn algorithm is a step by step approach to solve a specific problem, whereas data structure is the way of organizing data. These two concepts help programmers to solve the problem within less amount of time and memory. A software engineer is always expected to give the best solution for a specific problem taking care of time and memory both. They should know which algorithm and which data structure will be suitable or the best fit for a certain problem. Consider an example of searching an element in a large set of data. You can search the element using a linear search or binary search. Now you need to decide which approach is better (need to take care of time and memory management) to search the data (It depends on the number of data). We highly recommend you to focus on these two topics which are the heart of programming. Also, study mathematics if you can, because it helps you to analyze and design the best algorithm for a specific problem.
+        \nYou can take help of some portals like\nGeeksforGeeks\nCoderbyte\nCodinGame
+        \n\n\n<b>4.Software Testing and Debugging</b>\nEven in the age of automation, understanding the ins and outs of software testing and debugging is one of the core technical skills required if you want to become a Software Engineer.Though new AI programs can perform some of these tasks, testing is still a costly and time-consuming part of any software development project so becoming adept at performing these tasks is valuable to a Software Engineer. The testing process also relies on one of a Software Engineer’s soft skills: problem solving.
+        \n\n\n<b>5.Communication and Collaborations</b>
+        \nIt’s extremely rare that Software Engineers work in isolation.Software engineers need to collaborate and communicate with their team to complete projects. Being on a team isn’t always easy, but listening to differing opinions offers new perspectives, and will ultimately help the team solve problems. A software engineer must able to clearly communicate – in writing and orally – with virtually any type of team or company stakeholder, regardless of that person’s technical background.
+        \n\n\n<b>6.Team player</b>
+        \nSoftware Engineers typically work as part of a team – or leading one – and creating or maintaining great software programs requires the input and expertise of a great number of people. Success or failure will be shared by that team. Successful Software Engineers must understand how to compromise, how to motivate others to deliver the best work they’re capable of, and how to take and learn from criticism.
+        \n\n\n<b>7.Problem solving</b>
+        \nProblem-solving skills are relevant in every step of software engineering. There will always be problems, bugs, deadlines, miscommunications, and broken code. Being able to approach problems and create solutions to solve them is an indispensable skill. Successfully steering software development projects to completion requires quickly identifying and solving a lot of issues along the way. Software Engineers must be curious and creative problem-solvers, able to sift through code to pinpoint a programming error while also anticipating other issues before they arise and adapting quickly to solve them.
+        \n\n\n<b>8.Multitasking</b>
+        \nAs a software engineer, you need to manage multiple projects with competing deadlines. This is why multitasking is a non-negotiable soft skill for software engineers. Successful software engineers understand that prioritization and time management are key.
+        \n\n\n<b>9.Continuous Learning</b>
+        \nSoftware engineers have to be committed to continuous learning. Whether it’s a new language or software, great engineers are prepared to be a student forever. Continuous learning isn’t all lectures and studying. Often it happens by talking with others in your field and examining their work.\n\n
+        \n\n\n
+    </string>
+
+    <string name="pop24">
+        \n\n<b>Apply for your first Data Scientist job!!!</b>
+        \n common career paths for Data Scientist include :
+
+        \n<b>1.Data Analyst</b>\n\n<b>Job Description:</b>\nThe role of a Data Analyst revolves around using the company data to generate actionable insights which then the C-suite can take action upon. Another interesting fact about data analysts is that their projects usually change from time to time. So for 3 months, a data analyst may be working with the marketing department, and the next, may be shifted to production. \n\n<b>Skill set :</b>\n- \nData Modelling\nPython\nR programming,\n\n<b>Salary : </b>\n
+        \n<b>2.Data Scientist</b>\n\n<b>Job Description:</b>\n data scientists also have to build machine learning models for prediction, find patterns and trends in data, visualise data, and even pitch in with marketing strategies.\n\n<b>Skill Set :</b>\n-Statistics \nMathematics\nData Modelling\nPython\nR programming\nDatabase skills, Business acumen\nVisualisation/BI\nPresentation skills\n\n<b>Salary : </b>\n
+        \n<b>3.Business Intelligence Developer</b>\n\n<b>Job Description:</b>\A Computer Scientist’s role has a lot of overlaps with key functions including data science, programming and data architecture, among oth- ers.\n\n<b>Skill set :</b>\n-\nPython or R programming\nHadoop\ncreating models\nNotebook\nGithub\ndata modelling\n\n<b>Salary : </b>\n
+        \n<b>4.Data engineer</b>\n\n<b>Job Description:</b>\nThe title of data engineer encompasses a large swath of sub-specializations, including data analytics, AI, and machine learning. A data engineer’s main role is to analyze large amounts of data. \n\n<b>Skill set :</b>\n- Database systems like SQL and NoSQL\n- Data warehousing solutions\n- ETL tools\n- Machine learning\- Data APIs\n- Python, Java, and Scala programming languages\n- Algorithms and data structures\n\n<b>Salary : </b>\n
+        \n\n\n
+    </string>
+
+    <string name="pop23">
+        \n<b>1. Design and Build Software or Projects</b>\n\nMost of the employers are going to ask for the hands-on experience in building software or a project. Your practical experience is more valuable than your academic knowledge or GPA. Those CS fundamentals and concepts which you have learned in your textbooks, you should know how it can be used in building some amazing software. There is no point to learn all the concepts theoretically if you don’t know how to use it practically. So, use whatever you have learned and improved your skills by building some software or projects. You can build some personal or professional projects, you can contribute to some open-source projects and you can showcase it to the recruiters putting everything online. Your potential employer will be able to see your skills and experience through your projects.
+        \n<b>2. Do Some Internships</b>\n\nInternships are the best opportunity for students to get hands-on industry experience and exposure and that’s the reason it opens a lot of job opportunities. A lot of companies offer internships for students who want to work on industry projects. In internship students’ get practical training and real industry exposure where they work on some projects or products related to their skills, they also learn how to work under a team and it helps them to adapt to the company culture.Generally, internships are three to six months long for students and we recommend every student to go for some internship programs during their college time. Doing an internship can be really helpful in getting a full-time job offer and the same company where you are working as an intern can give you the opportunity for a full-time position once you complete your internship. You can read the link Why Internships are Important for Engineering Students or Freshers? to know it’s importance.
+       \n <b>3.Create a powerful resume</b>\n\nIf you have done all the above things then it’s time to start looking for job opportunities. Create a resume, create a nice profile on different job portals, post your resume over there, check these websites on a regular basis and apply for the jobs.Networking really helps in getting some referrals for the job or interviews so make connections, use personal contacts, attend meetups, conferences, seminars and expand your network. You can also visit different companies’ websites and check the job description in the career option. You can directly apply from their career option as well, if your profile will be shortlisted then the recruiter will approach you for further process.
+     \n\n\n
+    </string>
+
+
+    <string name="pop31">\n\n<b>WHO IS A FASHION DESIGNER?</b>
+        \n\nA fashion designer creates clothing, accessories, jewelry, footwear, costumes, and more. These can be wearable items for men, women, children, teens, dogs, cats, and even dolls and action figures. This is a highly competitive field; however, if you specialize in a niche area, you can improve your chances for success. Most people who enter this field are highly passionate about fashion and draw inspiration from numerous personal experiences and influences.Some fashion designers will create their own pieces to sell; whereas, other fashion designers will be hired to make the sketches of others a reality by creating patterns, or design clothes for an already established brand anonymously without any recognition. Very few fashion designers will ever have their clothes featured on the catwalks of Milan or New York. It is far more realistic that, if your dream is to design clothing for men or women, your clothes will be worn by everyday people.
+        \n\n\n<b>What do Fashion Designers do?</b>
+        \n\nFashion designers typically do the following:\n - Study fashion trends and anticipate designs that will appeal to consumers\n - Decide on a theme for a collection\n - Use computer-aided design (CAD) programs to create designs\n - Visit manufacturers or trade shows to get samples of fabric\n - Select fabrics, embellishments, colors, or a style for each garment or accessory\n - Work with other designers or team members to create prototype designs\n - Present design ideas to the creative director or showcase them in fashion or trade shows\n - Market designs to clothing retailers or directly to consumers\n - Oversee the final production of their designs\n - Larger apparel companies typically employ a team of designers headed by a creative director. Some fashion designers specialize in clothing, footwear, or accessory design; others create designs in all three fashion categories.
+        \n\n\n
+    </string>
+
+    <string name="pop32">
+        \n<b>What are the various Fashion Designer Courses available?</b>\n\nThe basic qualification you need is a diploma or degree in Fashion Design/Fashion Technology/Textile Design or related fields. To start a career in the field after 12th, you will have to clear NID exam/UCEED/CEED/NIFT entrance exam for pursuing bachelor’s courses in India while you can also find many diploma and short-term courses.
+        \n\n<b>1.Diploma Courses after 10th</b>\n\n - Diploma Course\n - Diploma in Fashion Technician \n - Diploma in Fashion Stylist\n - Diploma in Vogue Fashion Certificate\n - Diploma in Fashion Stylist and Image Consultant\n - Diploma in Design for Fashion and Textiles
+        \n\n<b>2.Courses after 12th</b>\n\n - Bachelor Degree\n - Bachelor in Textile Design\n - BSc Fashion Designing\n - Bachelor of Fashion Technology\n - Bachelor of Fashion Design &amp; Technology\n - BA Hons in Fashion Design and Manufacture\n - Bachelor in Design and Fashion Management\n - Bachelor in Fashion Design &amp; Management\n - BA Hons (Fashion Journalism)\n - BA Hons in Fashion Design &amp; Creative Direction
+        \n\n<b>3.Courses at Master’s Level</b>\n\n - Master Degree\n - Master in Sustainable Fashion Design\n - Master of Fashion Management\n - Master’s Program in Fashion, Clothing \n - Master in Fashion Collection Management\n - Master in Styling, Image and Fashion \t Communication\n - Master in Fashion Brand Management\n - Master in Fashion Technology
+        \n\n<b>4.Top Indian Institutes for Fashion Designing</b>\n\n - National Institute of Fashion and Technology, Delhi; Mumbai\n - National Institute of Design \n- Arena Animation\n - Pearl Academy\n - Amity School of Fashion Technology\n - Army Institute of Fashion and Design
+        \n\n<b>5.Books</b>\n\nSince the colleges in India as well as abroad offer admission in the courses through entrance exams, thus, the aspirants need a bunch of exclusive books. Listed below are the popular books for cracking the entrance exams related to this field-
+        \n - NIFT/IIFT/NID Entrance Exam Guide by R Gupta\n - NIFT Entrance Exam Seld Study Guide\n - NIFT Exam Guide by Dr RP Datason\n - Concepts of Pattern Grading\n - Popular Master Guide NIFT by R Gupta\n - NIFT Exam Guide by Verma
+        \n\n\n
+    </string>
+
+    <string name="pop33">
+        \n<b>Skills required in Fashion Designing</b>
+        \n\nEvery individual possesses a unique set of skills. As a fashion designer, the skills below are essential to gaining success in the industry.
+        \n\n1. <b>Artistic ability and creativity</b>\n The most important skill for a fashion designer or any artist is a natural talent. You want your art to be recognizable and distinguishable. Many fashion designers had careers as architects, graphic designers, or in other related fields before switching to fashion.
+        \n\n2. <b>Communication skills</b>\n Any top fashion designer needs good communication skills to develop their brand. Throughout your career, you may have the opportunity to be a part of a design team or lead one of your own. When working with teams, bring your research and ideas to the table instead of waiting for direction.
+        \n\n3. <b>Sewing and drawing skills</b>\n Sewing is a fundamental skill for any fashion designer. Complete mastery of basic skills of fashion construction—such as navigating a sewing machine—isn’t necessary, but it would behoove any budding designer to develop an intimate knowledge of the craft involved in producing your designs. Knowing about different fabrics and the properties that make them unique will help you better select the right material for your garments.
+        \n4. <b>Understanding of fabrics and materials</b>\n You can familiarize yourself with the various elements of garment design by touching fabrics, changing the tension of different stitches, and experimenting with embroidery. Take advantage of resources such as technical classes, online tutorials, and craft books that walk you step by step through the construction of a garment. Selecting fabric is an important part of expressing your ideas. Touch and feel the fabrics you intend to work with; making creative decisions based on only a swatch may limit your ability to understand movement and draping on a human body.
+        \n\n\n<b>Golden 6 Tips to Becoming a Fashion Designer</b>
+        \n\n1. <b>Get inspired</b>\n Pull inspiration from things you are genuinely interested in: music, art, history, architecture, and especially people. With inspiration flowing, use mood boards to organize and edit your thoughts. Your boards can consist of a wide range of visual references, including editorial sources, street style, and photographs (even if they aren’t related to fashion). You can also compile fabrics, textures, colors, style references, and accessories.
+        \n\n3. <b>Start smart, not small</b>\n Your goal at the beginning of your career is to gain as much experience as you can. Ask questions, reach out to collaborators, and seek out mentors. Look for internships or entry-level positions to get closer to the products you want to create and the customers you hope to serve. If you surround yourself with people who share your excitement and drive, you will push each other to create better products. And most people want to be around others who are excited about what they’re doing.
+        \n\n4. <b>Sketch your ideas</b>\n The first goal of a sketch is to begin visualizing the design in your head. The second goal of a sketch is to create a blueprint for the patternmaker to create your first muslin or prototype. These minimalistic, flat drawings will communicate the technical elements of your idea, including darts and seams, sleeve length, overall length, fit, shape, and more. You can indicate what fabrics might be used for each garment by attaching a swatch to the page. This gives the patternmaker an idea of the weight or stiffness the garment should have, and whether they are printed, patterned, or solid.
+        \n\n5. <b>Hone your voice and signature style</b>\n You don’t have to stay within a particular style, as long as you make thoughtful creative decisions that aid your brand as a designer. All of your creative decisions in the design process—even the details—tell a story.
+        \n\n6. <b>Build your collection. Creating a collection is not a linear journey</b>\n You can build a unified collection that presents a singular idea, or your collection can be composed of a variety of looks representing different ideas all connected by your design choices. These might be consistent proportions, colors, or even the lack of color. You can allow for eclecticism and diversity within the spirit of your collection. Focus your collection to display your point of view. If you choose to limit the colors in your collection, you ought to vary your silhouettes, and vice versa. You can ask your partners, peers, or friends to give their feedback on your designs and how the pieces all fit together.
+        \n\n\n
+    </string>
+
+    <string name="pop34">
+        \n<b>Career Opportunities in Fashion Designing???</b>
+        \n<b>Various roles: </b>
+        \n\n<b> - Seamstress or Tailor:</b>\n\n <b>Job description : </b>Seamstress or a tailor is a dressmaker or hand sewer. Seamstresses or tailors sew the entire outfit and give it the final look. Seamstresses need to be proficient in all sorts of techniques and tools of the trade.\n<b>Salary : </b>₹16467 per month
+        \n\n\n<b> - Fashion Stylist:</b>\n\n <b>Job description : </b>Fashion stylists work for individuals, fashion houses and clothing brands. They provide fashion advice; choose and coordinate outfits and accessories for models in photo shoots or actors in television and film. These types of fashion designer careers help the client to dress up according to the occasion using outfits and accessories. To create magnificent looks, of the wearer they need to master the art of visual balance by being able to choose the right outfit suiting the purpose, body type and personality of the particular wearer.\n<b>Salary : </b> ₹29,172 per month
+        \n\n\n<b> - Junior Fashion Designer:</b>\n\n <b>Job description : </b>Junior fashion designers research fashion trends, assist with designing fashion ranges and sources fabric and trims. These types of fashion designer careers work under the supervision of famous fashion designers in big fashion houses.\n<b>Salary : </b>₹16.7k per month
+        \n\n\n<b> - Fashion Merchandiser:</b>\n\n <b>Job description : </b>The fashion merchandisers decide what merchandise to stock for a brand by analyzing the past buying patterns of their customers. These types of fashion designer careers often works with the management to plan budgets and products that will bring revenue.\n<b>Salary : </b>₹25.0k per month
+        \n\n\n<b> - Fashion Director:</b>\n\n <b>Job description : </b>Fashion directors have an intimate knowledge of various market trends and they use this knowledge to develop marketing and branding strategies, and navigating market trends. These types of fashion designer careers need to travel and they are required to attend fashion shows in different countries. Fashion directors can forecast fashion trends, have strong communication skills, and be experts in design and color.\n<b>Salary : </b> ₹38340 per month
+        \n\n\n<b> 2. Develop Your Career</b>\n\nHow you develop your career will depend on the industry you’re in, the connections you make and the opportunities that you get. Progression may seem slow to begin with, and you will most likely start at the bottom of the chain, but if you work hard, you’ll definitely reap the rewards at the end.
+        \n\nBelow are a few tips to follow to help you progress in your career.
+        \n\n <b> - Make the right contacts early: </b>\nAs soon as you know you want to follow this career path, make it your mission to start meeting people within the industry. This could be through unpaid internships, networking events or even through LinkedIn and other social media outlets.
+        \n\n <b> - Decide on your niche:</b>\n You won’t be a master of everything, so it’s important to figure out what you’re exceptionally good at and decide what kind of path you want to follow in fashion.
+        \n\n <b> - Start promoting yourself:</b>\n Social media sites like Facebook, Twitter and Instagram are huge outlets for aspiring and practising designers, as it’s easy to reach thousands of people at just a click of a button. Spend some time developing your own personal brand and keep marketing yourself and your designs. Who knows? You might even become an overnight internet sensation!
+        \n\n\n
+    </string>
+
+    <string name="pop51">
+        \n<b>WHO IS A JOURNALIST?</b>
+        \n\nJournalists gather information about newsworthy happenings and report on those events for radio or television stations, newspapers, and magazines, as well as on the Internet.
+         \n\nIn news writing, you’ll also interview people or businesses. Because of tight deadlines, you’ll have to write concisely and quickly. Here, you have article inches to keep in mind. (Editors devote so many inches per article, or they chop from the bottom. This is where the inverted pyramid proves its worth—the most important news is found at the top.
+       \n \nIn Public Relations, your writing focus changes. Here, your goal is to write positive stories about the agency or company for which you work. You will write positive stories about your employer, then send them to your contacts at television stations and newspapers.
+        \n\n\n
+
+
+</string>
+
+    <string name="pop52">
+        \n<b>Education qualification!!</b>
+        \n\n\n<b> 1: Start Writing in High School</b>\n\nStudents who want to be journalists should select coursework that offers training in writing, photography, videography, multimedia, and computers. Aspiring journalists should also participate in school publications like the yearbook or newspaper. Developing journalism-related skills may improve their likelihood of being accepting into an undergraduate journalism degree program after graduation.
+        \n\n\n<b> 2: Earn Your Degree</b>\n\nExplore which colleges and universities offer a journalism major. You may also find this program embedded in a Mass Communications program, along with Advertising and Communications.egin your first year by signing up for your general education classes, such as math, English, sociology, history, and one of the required sciences. While this may feel like high school, these classes are necessary for you to build a solid foundation of knowledge.
+        \n\n\n<b> 3: Complete an Internship</b>\n\nGiven the importance of news and good news gathering and reporting, it’s no surprise that you need to complete an internship. Begin looking for the internship you want before the semester in which you will take it. Ask your professors for internship ideas—local newspaper publishers,a nearby television station, a public relations firm,even your university’s communications office.
+        \n\n\n
+
+    </string>
+
+    <string name="pop53">\n<b>Skills needed to be a journalist</b>
+        \nHere are some of the skills that journalists need to succeed at their job:
+        \n<b>Communication</b>\nThe spoken word is extremely important when it comes to journalism roles such as anchor, reporter and voiceover artist. Written communication and the ability to articulate well on paper is a key skill that broadcast journalists need to have or develop, since the job involves a lot of writing, research, development of scripts, content generation and editing.
+        \n<b>2.Attention to detail</b>\nJournalism is all about research and attention to detail.Being well-versed with the fundamentals of the subject is the key to success in any field, and the same applies to the world of journalism.
+        \n\n<b>3.Grasping power</b>\nThe ability of a journalist to learn on the job, absorb lots of new information and process it in a way that it is disseminated properly is of paramount importance. Broadcast journalists are expected to be quick with learning a variety of new subjects and reproducing information for the audience to digest.
+        \n\n<b>4.Research</b>\n News reports are expected to carry a certain sense of credibility, and this can only come from extensive research. Imagine having to do a story on the J&amp;K issue without enough knowledge about the topic! Neither will your feature carry substance, nor will the audience accept or watch the story.
+        \n\n<b>5.Digital Literacy</b>\nDigital literacy is indispensable today and will become even more important in the near future, with a large sect of the audience shifting from print journalism to broadcast journalism. Using multimedia for storytelling purposes is the way ahead and visual-driven content (slideshows, graphics, graphs, diagrams and videos) is set to rule the roost in the foreseeable future.There is a lot of competition for popular or current topics in the news market, so broadcast journalists just cannot afford to be one step behind the curve.
+        \n\n\n
+    </string>
+
+    <string name="pop54">
+        \n<b>Potential Career Paths</b>\n\n<b>Job description:</b>
+        \n\n<b>1.Multimedia Journalist:</b>\n\n<b>Job description:</b>\nYou will be responsible for gathering information on events making today’s news. Then you will write, produce, and present fair, balanced and accurate news and feature stories. You’ll keep your finger on the pulse of local and national news, dig into information as you determine truth and facts, deliver copy that is ready to be put onto a Teleprompter or straight on the news desk, be ready to provide on-air news reports in the field and in the studio; and create, report, and produce, with assistance, news specials and packages
+        \n\n<b>2.Associate Editor:</b>\n\n<b>Job description:</b>\nYou will pitch ideas, work with the photo and art teams to develop eye-catching layouts. You will also assign, write, and edit stories for the magazine. \n\n<b>Skills:</b>\nYou’ll often be expected to be a self-starter with a good work ethic.
+        \n\n<b>3.Page Designer:</b>\n\n<b>Job description:</b>\nEmployers need creative and motivated page designers who will be able to lend a new depth to local newspapers and magazines. They often prefer someone with experience in creating imaginative newspaper design, proofing, and editing skills.Designers are more than just “visual” professionals. As such, you will also edit content as well as design newspaper pages.\n\n<b>Skills</b> \nYou should be familiar with a fast-paced newsroom environment, be an experienced newspaper designer, and have the ability to juggle several tasks at the same time.Knowledge of InDesign and Photoshop will make you stand out. Expect to work night and weekend hours on a schedule that changes often.
+        \n\n<b>4.Multimedia Editor</b>\n\n<b>Job description:</b>\nYou will be required to have a bachelor’s degree in Communication, English, Journalism, or another related field. You must also be experienced in MS Office.\n\n<b>Skills:</b>\nYou should have two years of editing and writing experience and experience producing multimedia (video and photo) content in either a university, non-profit public affairs office, corporate office, or with a newspaper or magazine.
+        \n\n<b>5.Communications Associate:</b>\n\n<b>Job description:</b>\nThis can be a full-time on-site or remote position within a Communications team. Your role is to work with the team, promoting content and marketing projects. You will also be responsible for customer analytics, email, and social media marketing.\n\n<b>Skills:</b>\nYou will work with Editorial, creating engaging email marketing, then track the success of the email marketing products, using the open and click-through rates, as well as the number of subscribers.
+        \n\n\n.
+    </string>
+
+</resources>

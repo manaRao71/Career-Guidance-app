@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity5">
+
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
+        android:fillViewport="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+
+                android:id="@+id/tv0"
+                android:layout_width="match_parent"
+                android:layout_height="234dp"
+                android:background="@drawable/cardblue"
+                android:text="\n Hey curios learner\n\nKindly select any one of the appropriate \nskill set that you posess\n "
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="25dp"
+
+                android:textStyle="bold" />
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="410dp"
+                android:layout_height="800dp"
+                android:background="@color/white">
+
+                <RadioGroup
+                    android:id="@+id/rg1"
+                    android:layout_width="30dp"
+                    android:layout_height="700dp"
+                    android:layout_marginLeft="350dp"
+                    android:layout_marginTop="72dp">
+
+                    <RadioButton
+                        android:id="@+id/rdb1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginTop="42dp"
+                        android:onClick="onRadioButtonClicked"
+                        android:background="@drawable/rounded_corners_blue" />
+
+                    <RadioButton
+                        android:id="@+id/rdb2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginTop="120dp"
+                        android:onClick="onRadioButtonClicked"
+                        android:background="@drawable/rounded_corners_blue" />
+
+                    <RadioButton
+                        android:id="@+id/rdb3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginTop="120dp"
+                        android:onClick="onRadioButtonClicked"
+                        android:background="@drawable/rounded_corners_blue" />
+
+                    <RadioButton
+                        android:id="@+id/rdb4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginTop="110dp"
+                        android:onClick="onRadioButtonClicked"
+                        android:background="@drawable/rounded_corners_blue" />
+
+                    <RadioButton
+                        android:id="@+id/rdb5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginTop="110dp"
+                        android:onClick="onRadioButtonClicked"
+                        android:background="@drawable/rounded_corners_blue" />
+                </RadioGroup>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cd3"
+                    android:layout_width="315dp"
+                    android:layout_height="120dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="70dp"
+                    app:cardBackgroundColor="@color/blue"
+                    app:cardCornerRadius="35dp"
+                    app:cardElevation="6dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <TextView
+                        android:id="@+id/tv10"
+                        android:layout_width="310dp"
+                        android:layout_height="82dp"
+                        android:layout_gravity="top|center"
+                        android:layout_marginTop="20dp"
+                        android:text="1.Do you have strong coding, technical, communication skills?"
+                        android:textAlignment="center"
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cd4"
+                    android:layout_width="315dp"
+                    android:layout_height="125dp"
+                    android:layout_marginStart="21dp"
+                    android:layout_marginTop="210dp"
+                    app:cardBackgroundColor="@color/blue"
+                    app:cardCornerRadius="35dp"
+                    app:cardElevation="6dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/cd3">
+
+                    <TextView
+                        android:id="@+id/tv13"
+                        android:layout_width="310dp"
+                        android:layout_height="100dp"
+                        android:text="2.Do you have strong coding, analytical, statistical, visualization, communication  skills?"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:textAlignment="center"
+                        android:layout_gravity="top|center"
+                        android:layout_marginTop="20dp" />
+
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cd5"
+                    android:layout_width="315dp"
+                    android:layout_height="120dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="357dp"
+                    app:cardBackgroundColor="@color/blue"
+                    app:cardCornerRadius="35dp"
+                    app:cardElevation="6dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <TextView
+                        android:id="@+id/tv16"
+                        android:layout_width="315dp"
+                        android:layout_height="100dp"
+                        android:layout_gravity="top|center"
+                        android:layout_marginTop="20dp"
+                        android:text="3.Do you have strong creative, artistic, business skills?"
+                        android:textAlignment="center"
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cd6"
+                    android:layout_width="315dp"
+                    android:layout_height="120dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="498dp"
+                    app:cardBackgroundColor="@color/blue"
+                    app:cardCornerRadius="35dp"
+                    app:cardElevation="6dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/cd5">
+
+                    <TextView
+                        android:id="@+id/tv19"
+                        android:layout_width="310dp"
+                        android:layout_height="100dp"
+                        android:layout_gravity="top|center"
+                        android:layout_marginTop="20dp"
+                        android:text="4.Do you have strong leadership, decision-making, patriotic, emotional-intelligence skills?"
+                        android:textAlignment="center"
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cd7"
+                    android:layout_width="315dp"
+                    android:layout_height="120dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="640dp"
+                    app:cardBackgroundColor="@color/blue"
+                    app:cardCornerRadius="35dp"
+                    app:cardElevation="6dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <TextView
+                        android:id="@+id/tv22"
+                        android:layout_width="310dp"
+                        android:layout_height="100dp"
+                        android:layout_gravity="top|center"
+                        android:layout_marginTop="20dp"
+                        android:text="5.Do you have strong communication, research, ethical, logical reasoning skills?"
+                        android:textAlignment="center"
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                </androidx.cardview.widget.CardView>
+
+            </androidx.cardview.widget.CardView>
+
+            <Button
+
+                android:id="@+id/btn7"
+                android:layout_width="wrap_content"
+                android:layout_height="88dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp"
+                android:layout_marginBottom="30dp"
+                android:background="@drawable/rounded_corners_blue"
+                android:text="SUBMIT"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/cd8" />
+
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
